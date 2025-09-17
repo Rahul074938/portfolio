@@ -93,7 +93,7 @@ export const ContactSection = () => {
             <div className="pt-8">
               <h4 className="font-medium mb-4"> Connect With Me</h4>
               <div className="flex space-x-4 justify-center">
-                <a href="#" target="_blank">
+                <a href="https://www.linkedin.com/in/dandgey-rahul/" target="_blank">
                   <Linkedin />
                 </a>
                 <a href="#" target="_blank">
@@ -130,7 +130,7 @@ export const ContactSection = () => {
                   name="name"
                   required
                   className="w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-hidden foucs:ring-2 focus:ring-primary"
-                  placeholder="Dandgey Rahul..."
+                  placeholder="Name..."
                 />
               </div>
 
